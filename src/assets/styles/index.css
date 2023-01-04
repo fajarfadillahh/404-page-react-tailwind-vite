@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ===== FONT FACE ===== */
+@font-face {
+  font-family: "Space Grotesk";
+  font-weight: 600;
+  src: url("../fonts/SpaceGrotesk-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Space Grotesk";
+  font-weight: 700;
+  src: url("../fonts/SpaceGrotesk-Bold.ttf") format("truetype");
+}
